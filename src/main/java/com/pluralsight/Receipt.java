@@ -5,6 +5,8 @@ public class Receipt {
         double itemPrice = 59.99;
         int quantity = 1;
         double total = itemPrice * quantity;
+        System.out.println("You bought " + quantity + " " + itemName + " for " + total);
+        System.out.println();
 
     }
 }
