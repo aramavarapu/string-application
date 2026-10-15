@@ -11,5 +11,7 @@ public class VariableApp {
         System.out.println("My favorite color is " + favoriteColor);
         int yearStarted = 2026;
         System.out.println("I started Year up in " + yearStarted);
+        char middleInitial = 'S';
+        System.out.println("My middle initial is " + middleInitial);
     }
 }
