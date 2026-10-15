@@ -9,5 +9,7 @@ public class VariableApp {
 // REPEAT FOR NEXT EXERCISE
         String favoriteColor = "blue";
         System.out.println("My favorite color is " + favoriteColor);
+        int yearStarted = 2026;
+        System.out.println("I started Year up in " + yearStarted);
     }
 }
