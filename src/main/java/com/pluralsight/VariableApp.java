@@ -17,5 +17,9 @@ public class VariableApp {
         System.out.println("Have pets? " + Pets);
         String message = "Success is not final, failure is not fatal: It is the courage to continue that counts. — Winston Churchill";
         System.out.println(message);
+        int daysInAWeek = 7;
+        double coffeePrice = 3.65;
+        char favLetter = 'W';
+        boolean isRaining = false;
     }
 }
