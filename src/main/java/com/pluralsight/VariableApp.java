@@ -15,5 +15,7 @@ public class VariableApp {
         System.out.println("My middle initial is " + middleInitial);
         boolean Pets = false;
         System.out.println("Have pets? " + Pets);
+        String message = "Success is not final, failure is not fatal: It is the courage to continue that counts. — Winston Churchill";
+        System.out.println(message);
     }
 }
