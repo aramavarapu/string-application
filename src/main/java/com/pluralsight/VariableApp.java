@@ -13,5 +13,7 @@ public class VariableApp {
         System.out.println("I started Year up in " + yearStarted);
         char middleInitial = 'S';
         System.out.println("My middle initial is " + middleInitial);
+        boolean Pets = false;
+        System.out.println("Have pets? " + Pets);
     }
 }
