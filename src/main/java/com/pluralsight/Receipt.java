@@ -4,6 +4,7 @@ public class Receipt {
         String itemName = "Elden Ring";
         double itemPrice = 59.99;
         int quantity = 1;
+        double total = itemPrice * quantity;
 
     }
 }
