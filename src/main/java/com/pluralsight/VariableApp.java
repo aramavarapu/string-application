@@ -17,8 +17,8 @@ public class VariableApp {
         char middleInitial = 'S';
         System.out.println("My middle initial is " + middleInitial);
         //4. Declare a variable to store whether you have pets (yes/no)
-        boolean Pets = false;
-        System.out.println("Have pets? " + Pets);
+        boolean hasPets = false;
+        System.out.println("Have pets? " + hasPets);
         //5. Declare a variable with a nice message or saying
         String message = "Success is not final, failure is not fatal: It is the courage to continue that counts. — Winston Churchill";
         System.out.println(message);
